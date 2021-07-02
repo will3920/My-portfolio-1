@@ -630,3 +630,13 @@ header.masthead {
     padding: 0 100px 20px 20px;
   }
 }
+{/* resume - CV */
+
+.resume-section {
+  background-color: blue;
+}
+
+.resume-section-content {
+  Background-color: rgb(213, 213, 247);
+}
+}
