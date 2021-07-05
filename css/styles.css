@@ -14,10 +14,10 @@ hr {
 }
 
 a {
-  color: rgba(0, 162, 255, 0.274);
+  color: rgb(0, 26, 255 );
 }
 a:hover {
-  color: #93ada4;
+  color: rgb(0, 26, 255 );
   text-decoration: none;
 }
 
@@ -34,7 +34,7 @@ header.masthead {
   font-weight: 450;
   font-size: 1.5rem;
   line-height: 1.2;
-  color:rgba(0, 162, 255, 0.274);
+  color:rgb(0, 26, 255 );
 }
 .masthead-full-name {
   font-family: 'Anton', sans-serif;
@@ -42,7 +42,7 @@ header.masthead {
   font-size: 2.75rem;
 }
 .last-name-highlight {
-  color: rgba(0, 162, 255, 0.274);
+  color: rgb(0, 26, 255 );
 }
 @media (max-width: 576px) {
   .masthead-full-name {
@@ -198,13 +198,13 @@ header.masthead {
   border-color:#93ada4;
 }
 .btn-primary:focus, .btn-primary.focus {
-  color: #bfdbcf;
+  color: rgb(0, 26, 255 );
   background-color: hsl(263, 43%, 78%);
   border-color: #93ada4;
 
 }
 .btn-primary:not(:disabled):not(.disabled):active, .btn-primary:not(:disabled):not(.disabled).active, .show > .btn-primary.dropdown-toggle {
-  color: #bfdbcf;
+  color: rgb(0, 26, 255 );
   background-color: hsl(263, 43%, 78%);
   border-color: #93ada4;
 }
@@ -331,15 +331,15 @@ header.masthead {
 
 #mainNav .navbar-nav .nav-item .nav-link {
   font-size: 0.95rem;
-  color: rgba(0, 162, 255, 0.274);
+  color: rgb(0, 26, 255 );
   letter-spacing: 0.0625em;
 }
 #mainNav .navbar-nav .nav-item .nav-link.active{
-  color: rgba(0, 162, 255, 0.274);
+  color: rgb(0, 26, 255 );
 } 
 
 #mainNav .navbar-nav .nav-item .nav-link:hover {
-  color: rgba(0, 162, 255, 0.274);
+  color: rgb(0, 26, 255 );
 }
 
 @media (min-width: 992px) {
